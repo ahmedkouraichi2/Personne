@@ -1,0 +1,9 @@
+.app-personne{
+  width: 50%;
+  height:500px
+}
+.row{
+  display: felx;
+  align-items: center;
+  justify-content: center;
+}
